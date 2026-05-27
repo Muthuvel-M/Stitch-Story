@@ -29,7 +29,7 @@ function App() {
         </div>
 
         <a
-          href="https://www.instagram.com/direct/t/18122204257577521/"
+          href="https://www.instagram.com/stitch_story_21/"
           target="_blank"
           rel="noopener noreferrer"
           className="nav__cta"
@@ -53,7 +53,7 @@ function App() {
         <p className="hero__subtitle">{heroSubtext}</p>
 
         <div className="hero__actions">
-          <a
+          {/* <a
             href="https://www.instagram.com/direct/t/18122204257577521/"
             target="_blank"
             rel="noopener noreferrer"
@@ -63,7 +63,7 @@ function App() {
             <span className="btn__arrow" aria-hidden="true">
               →
             </span>
-          </a>
+          </a> */}
           <a
             href="https://www.instagram.com/stitch_story_21/"
             target="_blank"
