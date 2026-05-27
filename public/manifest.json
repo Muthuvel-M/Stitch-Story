@@ -1,0 +1,15 @@
+{
+  "short_name": "Stitch Story",
+  "name": "Stitch Story — Artful Embroidery & Stitching",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#F5EDD6",
+  "background_color": "#F5EDD6"
+}
