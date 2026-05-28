@@ -82,7 +82,7 @@ function App() {
         <div className="letter-note">
           <div className="letter-note__topline">
             <p className="letter-note__salutation">My dearest,</p>
-            <p className="letter-note__date">May 14, 2026</p>
+            <p className="letter-note__date">May 10, 2026</p>
           </div>
 
           <div className="letter-note__content">
